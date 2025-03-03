@@ -5,4 +5,6 @@
 >运行效果可查看示例Bot： [@OpenPremiumBot](https://t.me/OpenPremiumBot)
 
 
-欢迎关注Telegram频道： [@LightCountryChat](https://t.me/LightCountry)
+欢迎关注Telegram频道： [@LightCountryChat](https://t.me/buerzy)
+
+我是不二改动
